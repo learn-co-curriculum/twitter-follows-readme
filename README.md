@@ -2,19 +2,18 @@
 
 ## Objectives
 
-1. Objective 1
-2. Objective 2
+1. Create a complex Domain Model 
+2. Implement an active follow relationship (following )
+3. Implement the passive relationship (i.e. followers )  
 
 ## Instructions
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
+In Twitter, a user follows many other users. That person can be followed by many people. For example, I follow @coffeedad and @cher. @coffeedad has many followers and so does @cher. 
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
-
-### Part 1: Do Some Stuff
+Take a few minutes and discuss this with your tablemates. How you would you domain model this out? What tables/foreign keys would you need? How would you domain model this out? Once you've sketched out an ideal, check out the chapter below from the Rails tutorial to see one way you might do it. 
 
 ## Resources
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+* [Rails Tutorial - Following Users](https://www.railstutorial.org/book/following_users)
 
 <a href='https://learn.co/lessons/twitter-follows' data-visibility='hidden'>View this lesson on Learn.co</a>
