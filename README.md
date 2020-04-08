@@ -43,7 +43,7 @@ class CreateRelationships < ActiveRecord::Migration[5.2]
 end
 ```
 
-The Relationships table introduces more interesting elements, with us specifying a columns for the follower and followew user ids.
+The Relationships table introduces more interesting elements, with us specifying a columns for the follower and followed user ids.
 
 ### How would you domain model this out?
 
